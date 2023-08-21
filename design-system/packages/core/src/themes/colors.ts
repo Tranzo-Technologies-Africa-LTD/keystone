@@ -69,7 +69,7 @@ export const palette = {
   blue200: '#bfdbfe',
   blue300: '#93c5fd',
   blue400: '#60a5fa',
-  blue500: '#3b82f6',
+  blue500: '#10e287',
   blue600: '#2563eb',
   blue700: '#1d4ed8',
   blue800: '#1e40af',
