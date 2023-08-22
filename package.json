@@ -1,15 +1,14 @@
 {
-  "name": "tranzo-keystone-6/mono-repo",
+  "name": "@deedatbilla/keystone",
   "description": "KeystoneJS monorepo for all the @keystone-6 packages",
   "private": false,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Thinkmill Labs Pty Ltd",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "@deedatbilla:registry": "https://npm.pkg.github.com"
   },
-  "license": "MIT",
-  "repository": "https://github.com/keystonejs/keystone",
-  "homepage": "https://github.com/keystonejs/keystone",
+ 
   "packageManager": "pnpm@8.6.12",
   "scripts": {
     "coverage": "jest --coverage",
