@@ -8,7 +8,7 @@ node_modules/
 
 # ts-gql
 __generated__
-
+.npmrc
 # OS
 .DS_Store
 *.vscode

@@ -1,8 +1,11 @@
 {
-  "name": "@keystone-6/core",
+  "name": "@deedatbilla/keystone-6/core",
   "version": "5.5.1",
   "repository": "https://github.com/keystonejs/keystone/tree/main/packages/core",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "dist/keystone-6-core.cjs.js",
   "module": "dist/keystone-6-core.esm.js",
   "exports": {
