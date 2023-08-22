@@ -1,6 +1,6 @@
 {
   "name": "@keystone-6/example-hooks",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "scripts": {
     "dev": "keystone dev",

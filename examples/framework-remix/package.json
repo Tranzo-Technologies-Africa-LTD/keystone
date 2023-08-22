@@ -1,6 +1,6 @@
 {
   "name": "@keystone-6/example-framework-remix",
-  "private": true,
+  "private": false,
   "sideEffects": false,
   "scripts": {
     "build": "remix build",

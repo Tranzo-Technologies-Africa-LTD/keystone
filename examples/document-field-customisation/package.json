@@ -2,7 +2,7 @@
   "name": "@keystone-6/monorepo-example-document-field-customisation",
   "description": "Example to demonstrate customising document field with custom components",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "author": "Dinesh Pandiyan <flexdinesh@gmail.com>",
   "repository": "https://github.com/keystonejs/keystone/tree/main/examples/document-field-customisation",
   "scripts": {

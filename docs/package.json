@@ -1,7 +1,7 @@
 {
   "name": "@keystone-6/website",
   "version": "0.1.2",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "scripts": {
     "dev": "SHOW_NEXT_RELEASE=1 next -p 8000",

@@ -1,7 +1,7 @@
 {
   "name": "@keystone-6/prisma-utils",
   "version": "0.0.2",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@prisma/generator-helper": "^5.0.0",
     "@prisma/internals": "^5.0.0",

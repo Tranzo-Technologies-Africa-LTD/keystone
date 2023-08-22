@@ -1,5 +1,5 @@
 {
-  "name": "@keystone-6/mono-repo",
+  "name": "@tranzo-keystone-6/mono-repo",
   "description": "KeystoneJS monorepo for all the @keystone-6 packages",
   "private": false,
   "version": "0.0.0",

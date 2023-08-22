@@ -2,7 +2,7 @@
   "name": "@keystone-6/example-document-field-customisation-keystone-server",
   "description": "Keystone example demonstrating document field customisation",
   "version": "0.0.5",
-  "private": true,
+  "private": false,
   "repository": "https://github.com/keystonejs/keystone/tree/main/examples/document-field-customisation/keystone-server",
   "scripts": {
     "dev": "keystone dev --seed-database",
